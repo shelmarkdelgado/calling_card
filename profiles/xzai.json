@@ -1,0 +1,21 @@
+{
+  "name": "Shelmark Delgado",
+  "profileImage": "assets/profile/.svg",
+  "jobTitle": "Hokage",
+  "company": "Konoha",
+  "bio": "Connect by Tapping",
+  "phone": "+639936068427",
+  "email": "shelmarkdelgado@gmail.com",
+  "location": "San Juan City, Philippines",
+  "businessHours": "Mon–Fri, 9:00 AM–6:00 PM",
+  "socials": {
+    "facebook": "https://www.facebook.com/shelmark.delgado.5/",
+    "instagram": "https://www.instagram.com/zvcxzai_/?hl=en",
+    "linkedin": "https://www.linkedin.com/in/shelmarkdelgado/",
+    "tiktok": "https://www.tiktok.com/@zvcxzai_?_r=1&_t=ZS-99pftdMbCTv"
+  },
+  "customLinks": [
+    { "title": "My Portfolio", "url": "https://example.com/portfolio" },
+    { "title": "Book an Appointment", "url": "https://calendly.com/" }
+  ]
+}
