@@ -1,0 +1,25 @@
+{
+  "name": "John Dela Cruz",
+  "profileImage": "assets/profile/john.svg",
+  "jobTitle": "Software Developer",
+  "company": "ABC Technologies",
+  "bio": "Building digital solutions and connecting people through technology.",
+  "phone": "+639171234567",
+  "email": "john@example.com",
+  "location": "Makati City, Philippines",
+  "businessHours": "Mon–Fri, 9:00 AM–6:00 PM",
+  "socials": {
+    "facebook": "https://facebook.com/johndelacruz",
+    "instagram": "https://instagram.com/johndelacruz",
+    "linkedin": "https://linkedin.com/in/johndelacruz",
+    "viber": "viber://chat?number=%2B639171234567",
+    "tiktok": "https://tiktok.com/@johndelacruz",
+    "twitter": "https://x.com/johndelacruz",
+    "youtube": "https://youtube.com/@johndelacruz",
+    "website": "https://johndelacruz.com"
+  },
+  "customLinks": [
+    { "title": "My Portfolio", "url": "https://example.com/portfolio" },
+    { "title": "Book an Appointment", "url": "https://calendly.com/" }
+  ]
+}
